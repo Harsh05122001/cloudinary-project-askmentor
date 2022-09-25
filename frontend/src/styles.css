@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display:flex;
+  flex-direction: column;
+  margin-top: 100px;
+  align-items: center;
+  justify-content: center;
+}
+
+.text{
+  margin-bottom: 20px;
+  width: 400px;
+}
+.box{
+  display: flex;
+  margin-bottom: 20px;
+}
+.displaybox{
+  width: 20%;
+  height:300px;
+  border: 2px solid black;
+  border-radius: 2px solid black;
+  margin-left: 500px;
+  margin-bottom: 20px;
+}
+.image{
+  margin-left: 50px;
+}
+.txt{
+  margin-left: 100px;
+}
+.dis{
+  margin-left:25px;
+}
